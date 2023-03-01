@@ -1,6 +1,6 @@
 Hands on with Amazon Dynamo DB Database
 
-Course-end Project 1
+SIMPLILEARN PG CC Course-end Project 1
 
 DESCRIPTION
 
